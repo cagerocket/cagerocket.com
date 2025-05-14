@@ -1,0 +1,161 @@
+<gallery
+base = ""
+background = "#C0C0C0"
+banner = "#6699FF"
+text = "#000000"
+link = "#000000"
+alink = "#0000FF"
+vlink = "#0099ff"
+date = "Summer, 2009">
+	<sitename>Sears National Kids Cancer Ride</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#6699FF"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#6699FF" border = "0" rows = "11" col = "6"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#6699FF" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "SNKCR09-01.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-01.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-02.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-02.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-03.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-03.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-04.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-04.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-05.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-05.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-06.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-06.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-07.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-07.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-08.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-08.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-09.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-09.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-10.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-10.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-11.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-11.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-12.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-12.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-13.jpg"
+width = "576"
+height = "768"
+thumbpath = "SNKCR09-13.jpg"
+thumbwidth = "93"
+thumbheight = "125">
+</image>
+
+
+<image
+path = "SNKCR09-14.jpg"
+width = "768"
+height = "576"
+thumbpath = "SNKCR09-14.jpg"
+thumbwidth = "125"
+thumbheight = "93">
+</image>
+
+</images>
+</gallery>
